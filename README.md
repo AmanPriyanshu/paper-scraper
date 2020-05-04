@@ -7,4 +7,4 @@ Google Scholar, is a freely accessible web search engine that indexes the full t
 Please check reference and devlopment for this feature in its respective directory.
 
 To extract data:
-`python google_scholar.py 0 0 coronavirus`
+`python google_scholar.py 0 0 coronavirus`. The above command should relay the list of papers related to coronavirus in the data-folder. More features are to be added slowly.
